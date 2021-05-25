@@ -17,6 +17,10 @@ def input_int(prompt):
         print("You should have picked a number instead! Now play at max difficulty!!")
         return 8
 
+''' Testing new code on Github ''' 
+
+def new_funtion():
+    pass 
 
 def play_game():
     print()
@@ -137,3 +141,4 @@ def application():
         another = input("Would you like to play again (y/n): ")
 
 application()
+
